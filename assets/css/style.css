@@ -415,7 +415,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .hero {
   display: table;
   position: relative;
-  background-image: url(../img/cover.PNG);
+  background-image: url(../img/cover.png);
   background-size: cover;
   padding: 150px 0;
   color: ;
